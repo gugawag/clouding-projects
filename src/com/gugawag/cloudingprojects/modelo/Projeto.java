@@ -2,7 +2,7 @@ package com.gugawag.cloudingprojects.modelo;
 
 /**
  * Classe que representa um projeto no sistema Clouding Projects.
- * @author gugawag, gugawag@gmail.com
+ * @author gugawag, gugawag@gmail.com, 
  *
  */
 public class Projeto {
